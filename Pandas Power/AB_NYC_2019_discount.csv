@@ -1,0 +1,7 @@
+neighbourhood_group, discount
+Brooklyn,0.10
+Manhattan,0
+Queens,0.5
+Staten,0.15
+Island,0.20
+Bronx,0.25
